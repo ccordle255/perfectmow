@@ -394,6 +394,10 @@ body {
 	.content-row {
 		padding-top: 29px;
 	}
+
+	.content-row h1 {
+		font-size: 48px;
+	}
 	
 	.content-row h2 {
 		font-size: 24px;
@@ -445,6 +449,10 @@ body {
 	background-color: #F9A01B;
 	color: #e4e6e5;
 	padding-top: 90px;
+}
+
+#slide-5 .line-row {
+	margin-bottom: 100px;
 }
 
 #slide-6 {
